@@ -1,0 +1,39 @@
+ .App{
+     /* background-image: url("");; */
+     background-image: linear-gradient(rgba(0, 47, 255, 0.5), rgba(255, 255, 0, 0.5)),
+     url("https://thumbs.dreamstime.com/b/music-note-bar-illustration-music-note-curve-line-bar-concept-illustration-art-isolated-white-background-143764425.jpg?fit=fill&w=368&h=207");
+     border-radius: 50px;
+    }
+ .App div{
+
+border: solid 5px rgb(0, 26, 255);
+border-radius: 50px;
+max-width: 93vw;
+margin-left: 25px;
+border-radius: 50px;
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: rgb(0, 26, 255);
+    font-weight: 400px;
+    font-style: italic;
+    text-decoration: underline;
+    }
+
+.music{
+    height: 400px;
+    width: 500px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+
+#videos{
+    margin-top: 50px;
+    width: 300;
+    height: 250;
+    border: solid 10px rgb(0, 26, 255);
+    border-radius: 50px;
+}
+
